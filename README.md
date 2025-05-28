@@ -1,5 +1,10 @@
 Kasper Catch
 
+** Disclaimer **
+
+Project developed during university between October 2018 to November 2018.
+
+Project code is most likely outdated as this code is only uploaded from my local files in 2025.
 
 1. **App Definition Statement**
 
